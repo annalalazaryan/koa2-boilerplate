@@ -1,7 +1,7 @@
 
-# koa2-boilerplate routes#
+# koa2-boilerplate routes #
 
-***
+
 ### Development ###
 
 Place your routers in this directory.
@@ -78,7 +78,7 @@ Use limit and offset. It is flexible for the user and common in leading database
 
 You can test endpoints via swagger
 
-***
+
 ## Commenting Conventions ##
 
 Commenting should be done following the conventions of [JSDoc][JSDOC]. 
