@@ -1,5 +1,5 @@
 
-# koa2-boilerplate controllers#
+# koa2-boilerplate controllers #
 
 ***
 ### Development ###
