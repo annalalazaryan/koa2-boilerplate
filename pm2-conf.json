@@ -1,0 +1,14 @@
+{
+  "apps":[
+    {
+      "name": "koa2-boilerplate",
+      "script": "./app.js",
+      "watch": true,
+      "log_type": "json",
+      "log_date_format" : "YYYY-MM-DD HH:mm:ss",
+      "env": {
+        "NODE_ENV": "development"
+      }
+    }
+  ]
+}
