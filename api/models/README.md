@@ -1,7 +1,7 @@
 
-# koa2-boilerplate models#
+# koa2-boilerplate models #
 
-***
+
 ### Development ###
 
 Place your models in this directory.
@@ -10,7 +10,7 @@ Place your models in this directory.
 
 Place your model function test to the tests/models folder.
 
-***
+
 ## Commenting Conventions ##
 
 Commenting should be done by following the conventions of [JSDoc][JSDOC]. 
